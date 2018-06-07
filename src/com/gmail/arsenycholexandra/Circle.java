@@ -11,8 +11,6 @@ public class Circle {
 		double S = Math.PI * Math.pow(r, 2);
 		System.out.println("S = " + S);
 		
-		
-
 	}
 
 }
