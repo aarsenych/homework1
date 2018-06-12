@@ -1,4 +1,4 @@
-package com.gmail.arsenycholexandra;
+package com.gmail.arsenycholexandra.home_work1.level1;
 import java.util.Scanner;
 
 public class Main {

@@ -1,4 +1,5 @@
-package com.gmail.arsenycholexandra;
+package com.gmail.arsenycholexandra.home_work1.level1;
+
 import java.util.Scanner;
 
 public class Circle {
@@ -7,9 +8,10 @@ public class Circle {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Input r");
-		int r = sc.nextInt();
+		double r = sc.nextDouble();
 		double S = Math.PI * Math.pow(r, 2);
 		System.out.println("S = " + S);
+		sc.close();
 		
 	}
 
