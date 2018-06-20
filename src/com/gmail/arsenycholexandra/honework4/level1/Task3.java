@@ -11,7 +11,7 @@ public class Task3 {
 		int[] arr1 = new int[15];
 
 		for (int i = 0; i < arr1.length; i++) {
-			arr1[i] = rn.nextInt(10000);
+			arr1[i] = rn.nextInt(100);
 		}
 
 		int[] arr2 = new int[30];

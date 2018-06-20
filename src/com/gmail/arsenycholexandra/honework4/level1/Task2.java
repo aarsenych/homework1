@@ -8,7 +8,7 @@ public class Task2 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Input massive length");
+		System.out.println("Input array length");
 		int a = sc.nextInt();
 		int b[] = new int[a];
 		for (int i = 0; i < b.length; i++) {
